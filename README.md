@@ -51,7 +51,7 @@ $ yarn serve
 
 > UI Icons
 
-![Vue Dashboard - Material Pro Lite, icons screen.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard-materialpro-lite/master/media/vue-dashboard-materialpro-lite-screen-buttons.png)
+![Vue Dashboard - Material Pro Lite, icons screen.](https://raw.githubusercontent.com/admin-dashboards/vue-dashboard-materialpro-lite/master/media/vue-dashboard-materialpro-lite-screen-icons.png)
 
 <br />
 
